@@ -1,0 +1,18 @@
+{
+    "name": "V2",
+    "description": "VIP",
+    "mode": "V2RAY",
+    "sorter": 1,
+    "status": "ACTIVE",
+    "auth": {
+        "v2ray_uuid": ""
+    },
+    "category": {
+        "name": "PPH-2024",
+        "color": "#FF0000FF",
+        "sorter": 1
+    },
+    "config_v2ray": "vmess://eyJhZGQiOiJwYWluZ2hlaW50cnVlLmR1Y2tkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aHZpcDIucHBoLXZwbi5vbmxpbmUiLCJpZCI6ImRiMWVlOWNmLWM2NDgtNDQxYy04Y2Y2LWJlZGMxMjMyMzgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRILVZJUC1UUlVFLTAwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+    "icon": "",
+    "url_check_user": ""
+}
